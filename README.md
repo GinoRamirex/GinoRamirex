@@ -1,4 +1,4 @@
-- 🔭 Staff Software Engineer, [Nubox](https://github.com/nubox-spa)
+- 🔭 CTO en Plataforma Contable / Lelemon by [Haulmer](https://github.com/haulmer)
 - 👯 Me interesa colaborar en harness engineering y AI Tools
 - ✍️ Escribo sobre desarrollo y tecnología en [mi blog](https://blog.ginoramirez.dev/)
 - 📫 Cómo contactarme: [@GinoRamirezB](https://x.com/GinoRamirezB) en X o por [LinkedIn](https://www.linkedin.com/in/ginoramirezb/)

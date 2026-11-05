@@ -64,6 +64,6 @@ Because there is nothing to build or run:
 
 - This file documents a content repo, not a software project — resist the
   urge to scaffold tooling, CI, or build configs unless the owner asks.
-- The owner (Gino Ramírez) is a Staff Software Engineer at Nubox; he lists
+- The owner (Gino Ramírez) is CTO at Plataforma Contable / Lelemon by Haulmer; he lists
   Angular, Jamstack (JavaScript, APIs, Markup), and SQL/NoSQL databases as
   technologies he enjoys. Keep that context if expanding the profile.
